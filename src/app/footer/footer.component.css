@@ -1,5 +1,19 @@
 footer {
-    background-color: aqua;
-    color:blueviolet;
+    background-color: #fff;
+    color: #333;
     text-align: center;
-}
+    padding: 20px;
+    font-size: 14px;
+    border-top: 2px solid #f48fb1;
+    margin-top: 20px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  @media (max-width: 600px) {
+    footer p {
+      font-size: 12px;
+    }
+  }

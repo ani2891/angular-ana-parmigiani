@@ -21,7 +21,6 @@
     transition: all 0.3s ease;
   }
   
-
   @media (min-width: 768px) {
     .search-input {
       max-width: 400px;
@@ -37,7 +36,6 @@
     }
   }
   
-
   @media (max-width: 767px) {
     .search-input {
       max-width: 90%;

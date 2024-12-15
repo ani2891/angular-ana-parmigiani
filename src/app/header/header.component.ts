@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
-  texto: string = "Cursada FullStack prueba Angular"
+  texto: string = "Fullstack Angular 2024 - Ana Parmigiani"
 
 }
